@@ -1,0 +1,25 @@
+{
+  "name": "githubdescomplica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlliverM/descomplica.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express",
+    "pg"
+  ],
+  "author": "OlliverM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlliverM/descomplica/issues"
+  },
+  "homepage": "https://github.com/OlliverM/descomplica#readme"
+}
